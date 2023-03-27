@@ -1,3 +1,5 @@
+Part one solutions are included in the part1.pdf file.
+
 REPORT:
 
 The system used for this assignment was the provided one. The system is a ToDo list manager.
